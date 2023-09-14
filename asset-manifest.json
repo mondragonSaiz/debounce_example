@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.d74a86db.js",
-    "index.html": "/index.html",
-    "main.d74a86db.js.map": "/static/js/main.d74a86db.js.map"
+    "main.css": "/debounce_example/static/css/main.31d6cfe0.css",
+    "main.js": "/debounce_example/static/js/main.d74a86db.js",
+    "index.html": "/debounce_example/index.html",
+    "main.d74a86db.js.map": "/debounce_example/static/js/main.d74a86db.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
